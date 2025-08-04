@@ -36,7 +36,7 @@
 - <b>Tokenizer</b>;
 - <b>Abstracted Nodes</b> for numbers and operators;
 - <b>Lightweight</b> & <b>single-header file design</b>;
-- <b>Two Ready-To-Use built-in parsers</b> for use.
+- <b>Two Ready-To-Use built-in parsers</b>.
 
 ## Examples
 <b>mee</b> project provides examples in <b>source/examples</b> for each built-in parser.

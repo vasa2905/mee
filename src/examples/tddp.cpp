@@ -1,6 +1,6 @@
 
 
-// top down descent parser source file example
+// top down operator precedence parser source file example
 
 #include "mee.hpp"
 
@@ -22,3 +22,4 @@ int main(int argc, char **argv)
         std::cout << "result: " << result << '\n';
     }
 }
+
